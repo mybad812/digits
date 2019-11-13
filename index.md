@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ics-software-engineering/meteor-application-template-react/master/doc/newlanding.png)
+<img src="doc/newlanding.png">
 
 Meteor-application-template-react is a sample Meteor 1.8 application that illustrates:
 
